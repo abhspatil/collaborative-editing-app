@@ -1,5 +1,6 @@
 # Shared editing demo using IPFS and CRDT
 
+    Collabarative editing application similer to Google Docs using IPFS and Y-js implementation. real time editing with conflict free replicated data.  
 
 ### Build
 
